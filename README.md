@@ -1,2 +1,2 @@
 # WATERSHIP
-Game Based On Watership Down Novel
+Game Based On Watership Down Novel by Richard Adams
